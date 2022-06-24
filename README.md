@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashant  Kumar Sharma
 - 👀 I’m interested in Software Engeenring.
 - 🌱 I’m currently learning Web Devlopment.
-- 💞️ I’m looking to collaborate on  
+
 - 📫 How to reach me ...
 
 linkdin---  https://www.linkedin.com/in/prashant-kumar-sharma-7129171a7/
